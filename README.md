@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 👋 Hi, I’m Fahim.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently working as a web developer.
+- 💞️ I loving learning and biulding my own independent projects.
+- 📫 How to reach me fahimib32@gmail.com
+
 
 <!--
 **fahimib32/fahimib32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
